@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Identifying Moonlighting Proteins
 
 This project focuses on identifying moonlighting proteins using TF-IDF, biological features, and the ESM2 model.
@@ -121,6 +121,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [TF-IDF Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 
 ## 📞 Contact
+
 
 >>>>>>> 88e7e5ff0d151825323fd9a2d216bca31d7b65db
 For any questions or feedback, please open an issue in this repository.
