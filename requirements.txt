@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 scikit-learn
 pandas
 numpy
@@ -5,3 +6,12 @@ imbalanced-learn
 matplotlib
 seaborn
 
+=======
+scikit-learn
+pandas
+numpy
+imbalanced-learn
+matplotlib
+seaborn
+
+>>>>>>> 88e7e5ff0d151825323fd9a2d216bca31d7b65db

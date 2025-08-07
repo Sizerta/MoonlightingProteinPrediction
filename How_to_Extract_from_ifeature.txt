@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 1- Download Repository
 2- Split train and test in your data
 3- Run this CMD  one descriptor at a time 
+=======
+1- Download Repository
+2- Split train and test in your data
+3- Run this CMD  one descriptor at a time 
+>>>>>>> 88e7e5ff0d151825323fd9a2d216bca31d7b65db
 python iFeature.py --file "Yourdataset.fasta" --type AAC,DPC,CTDC,CTDT,CTDD --out "yourResults.csv"
